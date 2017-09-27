@@ -57,8 +57,8 @@ Challenges within each section are meant to be solved in order.
 ### Getting Help
 
 1.  Print what options a command accepts, like `bash` or `python`
-1.  Read the manual for a command, like `echo` or `ls`
-1.  Print the file path to a command, like `bash` or `python`
+1.  Read the manual for a command, like `echo` or `ls` `man ls`
+1.  Print the file path to a command, like `bash` or `python` `readlink -f bash`
 
 ### Files
 
