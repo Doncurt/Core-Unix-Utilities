@@ -52,7 +52,7 @@ Challenges within each section are meant to be solved in order.
   echo "Hello World"`
 }
 1.  Make an alias named `gocode` that navigates to your code directory `alias gocode="cd~/"`
-1.  Print all aliases (names and values)
+1.  Print all aliases (names and values) `alias`
 
 ### Getting Help
 
